@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Hello from the accounts service"
+  contactDetails:
+    name: "John Doe"
+    email: "customer@hostname.com"
+  onCallSupport:
+    - (555) 555-5555
+    - (555) 555-5556

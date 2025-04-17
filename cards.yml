@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Hello from the cards service"
+  contactDetails:
+    name: "Jack Black"
+    email: "customer@hostname.com"
+  onCallSupport:
+    - (222) 555-5555
+    - (222) 555-5556

@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "[UPDATED] Welcome to ST_Bank loans related PRODUCTION APIs "
+  message: "[UPDATED 2] Welcome to ST_Bank loans related webhook APIs "
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
     email: "pelias@eazybank.com"

@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Hello from the PRODUCTION accounts service"
+  message: "[UPDATED] from the PRODUCTION accounts service"
   contactDetails:
     name: "John Doe - Product Manager"
     email: "customer@hostname.com"
